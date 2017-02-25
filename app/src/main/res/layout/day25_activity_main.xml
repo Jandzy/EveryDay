@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_sendBorast"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="发送普通广播"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/tv_orderBorast"
+        android:background="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="发送有序广播"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/tv_sendResultBroast"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="发送终结广播"
+        android:gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/tv_sendLocaBroast"
+        android:background="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="发送本地广播"
+        android:gravity="center"/>
+
+</LinearLayout>
