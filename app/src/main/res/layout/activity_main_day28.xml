@@ -5,6 +5,7 @@
     android:orientation="vertical">
 
 <com.jandzy.everyday.feb.day28.CanvasPictureView
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content" />
+    android:id="@+id/canvas"
+    android:layout_width="400dp"
+    android:layout_height="400dp" />
 </LinearLayout>
