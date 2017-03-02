@@ -15,13 +15,13 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_day28);
-        final CanvasPictureView canvasPictureView = (CanvasPictureView) findViewById(R.id.canvas);
+       /* final CanvasPictureView canvasPictureView = (CanvasPictureView) findViewById(R.id.canvas);
         canvasPictureView.start();
         canvasPictureView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 canvasPictureView.start();
             }
-        });
+        });*/
     }
 }

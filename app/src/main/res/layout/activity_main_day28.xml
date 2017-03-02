@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-<com.jandzy.everyday.feb.day28.CanvasPictureView
+<com.jandzy.everyday.feb.day28.BesseView
     android:id="@+id/canvas"
     android:layout_width="400dp"
     android:layout_height="400dp" />
