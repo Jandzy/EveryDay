@@ -1,7 +1,7 @@
 package com.jandzy.everyday.mar.day7;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.google.gson.FieldAttributes;
@@ -9,12 +9,6 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.jandzy.everyday.R;
 import com.jandzy.everyday.mar.day11.MyExcusionStrategy;
-
-import org.joda.time.DateTime;
-
-import java.lang.reflect.Field;
-import java.lang.reflect.Modifier;
-import java.util.Date;
 
 /**
  * gson 学习
