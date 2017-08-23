@@ -9,7 +9,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".august.day14.MainActivity">
+        <activity android:name=".august.day18.August18MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
