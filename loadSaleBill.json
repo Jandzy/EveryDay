@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "code": "0",
+  "msg": "",
+  "content": {
+    "result": {
+      "totalPiece": 1,
+      "saleMoney": 5,
+      "buyer_id": 1002356789,
+      "buyer_nick_name": "TigerChen",
+      "buyer_photo": "TigerChen",
+      "printText": "拼好的打印文本",
+      "saleDetailList": [
+        {
+          "barCode": "16367",
+          "goodsName": "苹果",
+          "saleAmount": 1,
+          "saleMoney": 1000
+        }
+      ]
+    }
+  }
+}
